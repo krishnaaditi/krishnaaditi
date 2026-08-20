@@ -8,7 +8,7 @@
   🌸 ───────────── 🪴 💻 🪴 ───────────── 🌸
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/krishnaaditi/krishnaaditi.github.io/main/assets/sol_lab_aditi_final_animated.gif"
+    src="https://raw.githubusercontent.com/krishnaaditi/krishnaaditi.github.io/main/assets/sol_lab_aditi_dung_vo_animated.gif"
     width="400"
     alt="SOL Lab — Aditi Sarker"
   />

@@ -6,13 +6,11 @@
 
 <p align="center">
   🌸 ───────────── 🪴 💻 🪴 ───────────── 🌸
-</p>
-
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/krishnaaditi/krishnaaditi.github.io/main/assets/aditi_coding_animation.gif"
-    width="330"
-    alt="Aditi Coding Animation"
+    src="https://raw.githubusercontent.com/krishnaaditi/krishnaaditi.github.io/main/assets/sol_lab_aditi_final_animated.gif"
+    width="400"
+    alt="SOL Lab — Aditi Sarker"
   />
 </p>
 
